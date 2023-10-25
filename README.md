@@ -24,11 +24,11 @@ const francoBuonfrate = {
 
 <section>
   <h3 align="left">GitHub Stats</h3>
-  <a href="https://github.com/Franco-Buonfrate/github-readme-stats">
+  <a>
     <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-Buonfrate&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/valentinbegnis/github-readme-streak-stats">
+  <a >
     <img width="400" src="https://streak-stats.demolab.com/?user=Franco-Buonfrate&theme=react&border=61dafb&hide_border=true" alt="Franco Buonfrate Streak Stats" />
   </a>
 </section>
