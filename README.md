@@ -38,7 +38,7 @@ const francoBuonfrate = {
   <a href="https://www.linkedin.com/in/franco-buonfrate-775831207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=begnisvalentin@gmail.com" target="_blank">
+  <!-- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=begnisvalentin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  </a> -->
 </section>
